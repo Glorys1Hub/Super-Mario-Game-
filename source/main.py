@@ -1,8 +1,9 @@
 __author__ = 'Vatsal Rakholiya'
 
+
 import pygame as pg
-from . import setup, tools
-from . import constants as c
+from .import setup, tools
+from .import constants as c
 from .states import main_menu, load_screen, level
 
 def main():

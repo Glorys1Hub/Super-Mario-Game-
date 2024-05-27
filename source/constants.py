@@ -1,5 +1,7 @@
-__author__ = 'Vatsal Rakholiya'
+#__author__ = 'Vatsal Rakholiya'
 
+
+__author__= 'Group 9'
 DEBUG = False
 DEBUG_START_X = 110
 DEBUG_START_y = 538
